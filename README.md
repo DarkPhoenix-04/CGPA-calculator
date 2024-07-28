@@ -2,10 +2,11 @@
 This C++ program is designed to calculate a student's Cumulative Grade Point Average (CGPA) based on the grades and credits of the courses they have taken. The program consists of two main classes: Course and Student, and it includes the necessary logic to handle user input, compute grades, and display results.
 
 #Steps of how to write the code 
-Initialization: The program initializes a Student object and collects course information from the user.
-Data Entry: The user inputs the name, grade, and credits for each course.
-Computation: The program calculates the total grade points and total credits, and then computes the CGPA.
-Output: The program displays the individual course details, total credits, total grade points, and the final CGPA.
+
+1. Initialization: The program initializes a Student object and collects course information from the user.
+2. Data Entry: The user inputs the name, grade, and credits for each course.
+3. Computation: The program calculates the total grade points and total credits, and then computes the CGPA.
+4. Output: The program displays the individual course details, total credits, total grade points, and the final CGPA.
 
 
 #Components and Workflow:
